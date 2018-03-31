@@ -1,0 +1,9 @@
+{
+	"name": "TestPlugin",
+	"main": "Verstack/TestPlugin",
+	"version": "1.0.0",
+	"author": "Verstack",
+	"commands": {
+		"plugincommand": true
+	}
+}
